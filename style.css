@@ -259,7 +259,6 @@ footer {
     padding: 20px;
 }
 
-
 .logoo {
     width: 100px;
     height: 30px;
@@ -328,8 +327,4 @@ footer {
     margin: 3px;
     align-items: center;
     display: flex;
-}
-
-.top-captions h3 {
-    padding-left: 4%;
 }
